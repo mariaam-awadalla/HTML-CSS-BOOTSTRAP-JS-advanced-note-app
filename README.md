@@ -51,5 +51,3 @@ This app allows users to create, manage, and organize their notes visually appea
   * pinned status
 * Notes are dynamically rendered on the page
 * Pinned notes are always displayed at the top
-
---
